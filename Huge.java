@@ -8,8 +8,8 @@ class Huge {
 	// the arrays. Size of a[] is greater than
 	// b[]. It is made sure be the wrapper
 	// function
-	static int calSumUtil(int a[], int b[],
-								int n, int m)
+	static int calSumUtil(int a[], int b[],int n, int m)
+								
 	{
 		// array to store sum.
 		int[] sum= new int[n];
